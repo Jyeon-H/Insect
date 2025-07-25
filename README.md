@@ -29,7 +29,7 @@
 <br><br>
 
 ## 🔍 모델 및 방법
-- **주요 기술** : Python, Pandas, Numpy, scikit-learn, MySQL, Streamlit
+- **주요 기술** : Python, Pandas, Numpy, scikit-learn, sqlpd, Streamlit
 - **병해충 예측** :
   - *모델* : Logistic Regression
   - *입력* : 지역 기후 데이터 (온도, 습도 등)
